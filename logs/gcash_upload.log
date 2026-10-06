@@ -1,0 +1,30 @@
+[2026-10-01 05:58:03] Booking SFR-C497B9D7 (reservation #177) inserted. gcash_proof: error=0 size=172751 name=04_guest_details_step_3.png
+[2026-10-01 05:58:03] Screenshot saved: booking=SFR-C497B9D7 file=gcash_SFRC497B9D7_20261001_055803_e0d864b082.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFRC497B9D7_20261001_055803_e0d864b082.png
+[2026-10-01 05:58:03] Screenshot saved as gcash_SFRC497B9D7_20261001_055803_e0d864b082.png
+[2026-10-01 05:58:03] Payment row saved: reservation=177 payment=64 proof=gcash_SFRC497B9D7_20261001_055803_e0d864b082.png
+[2026-10-01 05:58:03] Payment row saved for SFR-C497B9D7
+[2026-10-01 06:00:10] Booking SFR-F5969B7A (reservation #178) inserted. gcash_proof: error=0 size=225577 name=03_booking_step_1.png
+[2026-10-01 06:00:10] Screenshot saved: booking=SFR-F5969B7A file=gcash_SFRF5969B7A_20261001_060010_71fdff6583.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFRF5969B7A_20261001_060010_71fdff6583.png
+[2026-10-01 06:00:10] Screenshot saved as gcash_SFRF5969B7A_20261001_060010_71fdff6583.png
+[2026-10-01 06:00:10] Payment row saved: reservation=178 payment=65 proof=gcash_SFRF5969B7A_20261001_060010_71fdff6583.png
+[2026-10-01 06:00:10] Payment row saved for SFR-F5969B7A
+[2026-10-06 17:39:36] Booking SFR-FD9E50BD (reservation #179) inserted. gcash_proof: error=0 size=211203 name=Screenshot 2026-10-01 051017.png
+[2026-10-06 17:39:36] Screenshot saved: booking=SFR-FD9E50BD file=gcash_SFRFD9E50BD_20261006_173936_b7728653dc.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFRFD9E50BD_20261006_173936_b7728653dc.png
+[2026-10-06 17:39:36] Screenshot saved as gcash_SFRFD9E50BD_20261006_173936_b7728653dc.png
+[2026-10-06 17:39:36] Payment row saved: reservation=179 payment=66 proof=gcash_SFRFD9E50BD_20261006_173936_b7728653dc.png
+[2026-10-06 17:39:36] Payment row saved for SFR-FD9E50BD
+[2026-10-06 17:45:28] Booking SFR-E2F2662A (reservation #180) inserted. gcash_proof: error=0 size=211203 name=Screenshot 2026-10-01 051017.png
+[2026-10-06 17:45:28] Screenshot saved: booking=SFR-E2F2662A file=gcash_SFRE2F2662A_20261006_174528_61d2044d13.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFRE2F2662A_20261006_174528_61d2044d13.png
+[2026-10-06 17:45:28] Screenshot saved as gcash_SFRE2F2662A_20261006_174528_61d2044d13.png
+[2026-10-06 17:45:28] Payment row saved: reservation=180 payment=67 proof=gcash_SFRE2F2662A_20261006_174528_61d2044d13.png
+[2026-10-06 17:45:28] Payment row saved for SFR-E2F2662A
+[2026-10-06 17:48:04] Booking SFR-6156B279 (reservation #181) inserted. gcash_proof: error=0 size=159207 name=Screenshot 2026-08-13 033901.png
+[2026-10-06 17:48:04] Screenshot saved: booking=SFR-6156B279 file=gcash_SFR6156B279_20261006_174804_8c92666724.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFR6156B279_20261006_174804_8c92666724.png
+[2026-10-06 17:48:04] Screenshot saved as gcash_SFR6156B279_20261006_174804_8c92666724.png
+[2026-10-06 17:48:04] Payment row saved: reservation=181 payment=68 proof=gcash_SFR6156B279_20261006_174804_8c92666724.png
+[2026-10-06 17:48:04] Payment row saved for SFR-6156B279
+[2026-10-06 17:50:55] Booking SFR-B68F9C8C (reservation #182) inserted. gcash_proof: error=0 size=159207 name=Screenshot 2026-08-13 033901.png
+[2026-10-06 17:50:55] Screenshot saved: booking=SFR-B68F9C8C file=gcash_SFRB68F9C8C_20261006_175055_762af28ac3.png path=C:\xampp\htdocs\sfive\uploads\gcash\gcash_SFRB68F9C8C_20261006_175055_762af28ac3.png
+[2026-10-06 17:50:55] Screenshot saved as gcash_SFRB68F9C8C_20261006_175055_762af28ac3.png
+[2026-10-06 17:50:55] Payment row saved: reservation=182 payment=69 proof=gcash_SFRB68F9C8C_20261006_175055_762af28ac3.png
+[2026-10-06 17:50:55] Payment row saved for SFR-B68F9C8C
